@@ -1,4 +1,4 @@
-⛅ Weather App — Real-Time Weather Forecast Application
+# Weather App — Real-Time Weather Forecast Application
 
 A simple and responsive weather application built to fetch and display live weather data for any city using external APIs.
 
